@@ -1,0 +1,88 @@
+body{
+    background-color: hsl(30, 38%, 92%);
+}
+
+ .container{
+    display: flex;
+    width: 55%;
+    margin: 10% 0 10% 25%;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 15px;
+}
+.perfume {
+    width: 50%;
+    border-radius: 15px 0 0 15px;
+    display: flex;
+}
+.informacoes-produto {
+    
+    margin: 5%;
+}
+.texto-alto {
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: hsl(228, 12%, 48%);
+}
+h1.texto-nome {
+    font-family: 'Fraunces', serif;
+    font-size: xxx-large;
+    color: hsl(212, 21%, 14%);
+    margin-bottom: 30px;
+}
+h2.descricao {
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+    color: hsl(228, 12%, 48%);
+    margin-bottom: 25px;
+    line-height: 1.5;
+}
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10%;
+}
+li.valor-promocao {
+    font-family: 'Fraunces', sans-serif;
+    font-size: xxx-large;
+    color: hsl(158, 36%, 37%);
+}
+li.valor-original {
+    font-family: 'Montserrat', sans-serif;
+    color: hsl(228, 12%, 48%);
+    text-decoration: line-through;
+}
+button {
+    margin: inherit;
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    /* font-size: medium; */
+    font-weight: bold;
+    color: white;
+    background-color: hsl(158, 36%, 37%);
+    border-radius: 10px;
+    height: 10%;
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-color: beige;
+}
+button:hover {
+    background-color: hsl(134, 37%, 12%);
+    cursor: pointer;
+}
+i {
+    margin: 10px;
+}
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
