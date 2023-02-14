@@ -7,7 +7,8 @@ Para fazer este desafio, você precisa de um conhecimento básico de HTML e CSS.
 
 O projeto consistia em fazer uma página de descrição e venda de produto. Trabalhar a reponsividade para telas 1440px(pcs) e 377px(celulares), além de ter interatividade para que quando o cliente passasse o mouse no botao de "adicionar ao carrinho" o cursor mudasse assim como a cor ficasse mais escura.
 
-Minhas impressões sobre o projeto
+Minhas impressões sobre o proj*eto
+
 Eu gostei de trabalhar nesse projeto porquê me desafiou a deixar imagem responsiva algo que nao consegui no projeto anterior. Para isso usei o objetc-fit e o object Position para que ela se ajustasse a tela sem perder a resolução e ficasse sempre centralizada ao centro da foto, onde o foco é o frasco do perfume.
 A reposividade tem foi um tanto quanto desafiador porque entrava em conflito com o style no css, mas consegui achar onde estava errado e resolver o problema. Percebi também que tenho que melhorar ao incluir mais uma tela no responsivo, pois quando entra outras telas muitas das vezes fica tudo desorganizado.
 Porém, contudo isso consegui ver meu progresso do projeto anterior para esse em alguns pontos e percebi tambem muitos a melhorar.O projeto consistia em 
